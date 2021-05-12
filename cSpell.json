@@ -1,0 +1,16 @@
+{
+    "version": "0.1",
+    "language": "en-US",
+    "words": [
+        "autoload",
+        "classmap",
+        "escapestudios",
+        "laravel",
+        "phpdocumentor",
+        "phpspec",
+        "phpunit",
+        "xeno",
+        "xenokore"
+    ],
+    "flagWords": []
+}
